@@ -6,10 +6,8 @@ import { Props } from "./props";
  */
 export declare class View extends React.Component<Props> {
     renderStyle(): {
-        marginTop: string;
-        marginLeft: string;
-        marginRight: string;
-        marginBottom: number;
+        margin: string;
+        paddingTop: string;
     };
     render(): JSX.Element;
 }

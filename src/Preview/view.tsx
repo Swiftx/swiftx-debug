@@ -9,17 +9,15 @@ export class View extends React.Component<Props> {
 
     public renderStyle(){
         let style = {
-            marginTop: "30px",
-            marginLeft : "auto",
-            marginRight : "auto",
-            marginBottom : 0
+            margin: "0 auto",
+            paddingTop : "30px"
         };
         if ('height' in this.props)
             style["height"] = this.props.height;
         if (undefined !== this.props.width)
             style["width"] = this.props.width;
         if (undefined !== this.props.top)
-            style.marginTop = this.props.top+'px';
+            style.paddingTop = this.props.top+'px';
         return style;
     }
 
