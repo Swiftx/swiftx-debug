@@ -1,0 +1,34 @@
+{
+  "name": "swiftx-debug",
+  "version": "0.0.0",
+  "description": "React UI 组件调试框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swiftx/swiftx-debug.git"
+  },
+  "keywords": [
+    "React",
+    "Swiftx",
+    "Debug"
+  ],
+  "author": "胡永强",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Swiftx/swiftx-debug/issues"
+  },
+  "homepage": "https://github.com/Swiftx/swiftx-debug#readme",
+  "devDependencies": {
+    "@types/react": "^16.0.34",
+    "@types/react-dom": "^16.0.3",
+    "babel-loader": "^7.1.2",
+    "swiftx-guardian": "^0.1.0"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}

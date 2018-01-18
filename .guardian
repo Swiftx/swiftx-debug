@@ -1,0 +1,13 @@
+{
+  "entry" : {
+    "main" : "src/index.tsx",
+    "title" : "Swiftx 脚手架"
+  },
+  "output" : {
+    "index" : "index.html",
+    "path" : "dist"
+  },
+  "debug" : {
+    "sourceMap" : false
+  }
+}
