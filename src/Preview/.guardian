@@ -1,0 +1,9 @@
+{
+  "entry" : {
+    "main" : "demo.tsx",
+    "title" : "容器预览组件"
+  },
+  "debug" : {
+    "sourceMap" : false
+  }
+}
