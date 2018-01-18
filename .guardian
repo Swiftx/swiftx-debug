@@ -1,9 +1,0 @@
-{
-  "entry" : {
-    "main" : "./src/index.tsx",
-    "title" : "容器预览组件"
-  },
-  "output" : {
-    "path" : "dist"
-  }
-}
