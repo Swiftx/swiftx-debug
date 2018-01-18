@@ -2,7 +2,8 @@
   "name": "swiftx-debug",
   "version": "0.1.0",
   "description": "React UI 组件调试框架",
-  "main": "build/index.js",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

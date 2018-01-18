@@ -11,7 +11,7 @@
     "target": "es5",
     "jsx": "react",
     "sourceMap" : false,
-    "outDir" : "build"
+    "outDir" : "lib"
   },
   "exclude": [
     "node_modules"
