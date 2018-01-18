@@ -1,7 +1,7 @@
 import * as React from "react";
 import { Props } from "./props";
 
-const style = require('./style.css');
+const style = require('../../src/Preview/style.css');
 
 /**
  * 视图组件
